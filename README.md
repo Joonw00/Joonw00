@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerwuy)](https://solved.ac/tigerwuy)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joonw00&layout=dark&theme=onedark)
