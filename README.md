@@ -1,6 +1,3 @@
-Well begun, is half done
-
-<!-- Well begun, is half done -->
 <link href="https://fonts.googleapis.com/earlyaccess/hanna.css" rel="stylesheet" type="text/css" />
 .text2 { font-family:'Hanna', sans-serif; } 
 
