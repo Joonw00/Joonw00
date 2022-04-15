@@ -2,6 +2,7 @@ Well begun, is half done
 
 <!-- Well begun, is half done -->
 <link href="https://fonts.googleapis.com/earlyaccess/hanna.css" rel="stylesheet" type="text/css" />
+.text2 { font-family:'Hanna', sans-serif; } 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerwuy)](https://solved.ac/tigerwuy)
