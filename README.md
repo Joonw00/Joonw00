@@ -1,5 +1,16 @@
 Well begun, is half done
 
+@font-face {
+	font-family: 'Noto Sans KR';
+	src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'Noto Sans KR';
+}
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerwuy)](https://solved.ac/tigerwuy)
 
