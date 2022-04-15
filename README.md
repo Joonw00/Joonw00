@@ -1,6 +1,9 @@
 <link href="https://fonts.googleapis.com/earlyaccess/hanna.css" rel="stylesheet" type="text/css" />
 .text2 { font-family:'Hanna', sans-serif; } 
 
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/BMHANNAAir.min.css" rel="stylesheet" type="text/css" />
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerwuy)](https://solved.ac/tigerwuy)
 
