@@ -37,12 +37,12 @@
 
 ### 프로젝트
 #### [Yeongam Project](https://github.com/Einaaaaa/Yeongam-project)
--복지 정보 제공 플랫폼 어플리케이션입니다
--admin page 개발을 비롯한 백엔드 개발을 맡았습니다.
+-복지 정보 제공 플랫폼 어플리케이션입니다<br>
+-admin page 개발을 비롯한 백엔드 개발을 맡았습니다.<br>
 -Node.js, Flutter, MariaDB를 사용했습니다.
 
 #### [Software Engineering](https://github.com/Joonw00/Software-Engineering)
--가상 코인 거래 사이트 개발 프로젝트입니다.
+-가상 코인 거래 사이트 개발 프로젝트입니다.<br>
 -Flask, MongoDB를 사용했습니다.
 
 ---
