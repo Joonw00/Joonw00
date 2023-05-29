@@ -1,3 +1,5 @@
+# 박준우 (Park Junwoo)
+## 동국대학교 정보통신공학과
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerwuy)](https://solved.ac/tigerwuy)
 
 
