@@ -30,14 +30,14 @@
 
 ---
 
-### Projects
-#### Project 1
+### 프로젝트
+#### [Software Engineering](https://github.com/Joonw00/Software-Engineering)
+간단한 프로젝트 설명을 작성하세요. (사용된 기술 등)
 
-#### Project 2
+#### [Yeongam Project](https://github.com/Einaaaaa/Yeongam-project)
+간단한 프로젝트 설명을 작성하세요. (사용된 기술 등)
 
 ---
 
 ### Contact
-- Email: example@example.com
-- Blog: [example.com](https://example.com)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/yourname)
+- Email: junu3431@example.com
