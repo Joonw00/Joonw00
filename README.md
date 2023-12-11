@@ -41,8 +41,11 @@
 -admin page 개발을 비롯한 백엔드 개발을 맡았습니다.<br>
 -Node.js, Flutter, MariaDB를 사용했습니다.
 
+---
+
+### 과제
 #### [Coin-trading-site](https://github.com/Joonw00/Software-Engineering)
--가상 코인 거래 사이트 개발 프로젝트입니다.(학과 프로젝트)<br>
+-가상 코인 거래 사이트 개발 과제입니다.<br>
 -Flask, MongoDB를 사용했습니다.
 
 ---
