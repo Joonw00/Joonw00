@@ -50,7 +50,6 @@
 
 #### [학식 정보 제공 앱](https://github.com/Joonw00/MobileSoft)
 -학식 정보 입출력 및 분석 앱 개발 과제입니다.<br>
-
 -java를 사용했습니다.
 
 ---
