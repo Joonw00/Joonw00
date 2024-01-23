@@ -43,6 +43,9 @@
 -admin page 개발을 비롯한 백엔드 개발을 맡았습니다.<br>
 -Node.js, Flutter, MariaDB를 사용했습니다.
 
+
+#### [Where-QR](https://github.com/orgs/baek-park/repositories)
+
 ---
 
 ### 과제
