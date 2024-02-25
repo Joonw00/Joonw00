@@ -10,11 +10,6 @@
 ### 언어
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 
@@ -24,9 +19,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)
 
 ### 프레임워크
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
 ### 데이터베이스
