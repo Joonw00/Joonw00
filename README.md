@@ -55,7 +55,7 @@
 
 
 
-#### [SPARCS](https://github.com/SPARCS-Service-Hackathon-2024)
+#### [SPARCS](https://github.com/SPARCS-Service-Hackathon-2024/A11-Frontend)
 - React Native
 ---
 
