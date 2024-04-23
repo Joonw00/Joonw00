@@ -12,7 +12,7 @@
 ### 프로젝트
 | 프로젝트 이름      | 설명                                         | 사용 기술                          |
 |------------------|--------------------------------------------|----------------------------------|
-| [Yeongam Project](https://github.com/orgs/Team-NARU/repositories) | 복지 정보 제공 플랫폼 어플리케이션입니다. 백엔드 개발과 admin page 개발을 맡았습니다. | Node.js, Flutter, MariaDB       |
+| [Yeongam Project](https://github.com/orgs/Team-NARU/repositories) | 복지 정보 제공 플랫폼 어플리케이션입니다. 백엔드 개발과 admin page 개발을 맡았습니다. | Node.js       |
 | [Where-QR](https://github.com/orgs/baek-park/repositories)    | -                                          | Java, Spring                     |
 | [SPARCS](https://github.com/SPARCS-Service-Hackathon-2024)    | -                                          | React Native                     |
 
