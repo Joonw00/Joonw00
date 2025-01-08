@@ -14,14 +14,6 @@
 
 ---
 
-### 과제
-| 과제 이름                    | 설명                               | 사용 기술           |
-|----------------------------|----------------------------------|-------------------|
-| [Coin-trading-site](https://github.com/Joonw00/Software-Engineering) | 가상 코인 거래 사이트 개발 과제입니다.   | Python, Flask, MongoDB    |
-| [학식 정보 제공 앱](https://github.com/Joonw00/MobileSoft)          | 학식 정보 입출력 및 분석 앱 개발 과제입니다. | Java              |
-
----
-
 </div>
 
 
