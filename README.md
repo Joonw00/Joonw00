@@ -11,6 +11,7 @@
 | [Where-QR](https://github.com/orgs/baek-park/repositories)    | QR 코드 스캔을 통해 분실물들을 소비자와 분실자간 연결해주는 플랫폼 | Java, Spring                     |
 | [SPARCS](https://github.com/SPARCS-Service-Hackathon-2024)    | -                                          | React Native                     |
 | [WASH](https://github.com/Team-Wash/Wash-Server)    | -                                          | Node.js                     |
+| [QASTUDIO](https://github.com/QASTUDIODEV/SERVER_QASTUDIO)    | QA 자동화를 위한 플랫폼 개발을 진행했습니다.                                          | Java, Spring                     |
 
 ---
 
